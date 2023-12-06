@@ -1,1 +1,0 @@
-# slimkonrad.github.io
