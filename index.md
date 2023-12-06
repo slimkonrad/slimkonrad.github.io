@@ -1,5 +1,5 @@
 # Konner Rigby's Portfolio 
-I am a Computer Science Major who is graduating from CSUF in 2027. Link to profile: https://slimkonrad.github.io/
+I am a Computer Science Major who is graduating from CSUF in 2027. Link to profile: https://github.com/slimkonrad
 ## CPSC 120 Labs
 * Lab 5, Part 1
 This is the lab where I began to properly understand user input and how to store/prompt it. On top of that this lab helped me better understand how and why it is better to properly organize your code. Finally, this lab helped me incorporate math into c++ for the first time.
